@@ -1,8 +1,8 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/proj/kodiak-dev/vehicle" />
-      <entry key="generate-from-build-file.last-workspace-path" value="BUILD" />
+      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/proj/tf/serving-minimal-client::/home/felix/proj/kodiak-dev/vehicle" />
+      <entry key="generate-from-build-file.last-workspace-path" value="tensorflow_serving/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
     </settings>
