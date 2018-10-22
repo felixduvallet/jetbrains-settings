@@ -18,6 +18,7 @@
     <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
     <option name="SPACE_BEFORE_PROTOCOLS_BRACKETS" value="false" />
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
+    <option name="INTRODUCE_CONST_VARS" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
