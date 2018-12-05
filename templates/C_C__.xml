@@ -1,0 +1,7 @@
+<templateSet group="C/C++">
+  <template name="stream" value="&quot; &lt;&lt; var &lt;&lt; &quot;" description="var -&gt; &quot; &lt;&lt; var &lt;&lt; &quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>
