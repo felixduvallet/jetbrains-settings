@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="build" type="BUILD" />
+      <mapping ext="simulation" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
