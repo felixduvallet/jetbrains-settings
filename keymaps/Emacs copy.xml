@@ -2,4 +2,13 @@
   <action id="ClangFormat.ClangFormat">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="f" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
 </keymap>
