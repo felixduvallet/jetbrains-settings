@@ -13,10 +13,11 @@
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -29,1302 +30,11 @@
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.1/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1343,7 +53,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1360,7 +70,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1379,7 +89,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1396,7 +106,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1415,7 +125,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1432,7 +142,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1451,7 +161,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1468,7 +178,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1487,7 +197,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1504,279 +214,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/bin" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1795,7 +233,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1812,7 +250,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1831,7 +269,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1848,7 +286,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1867,7 +305,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1884,7 +322,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1903,7 +341,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1920,7 +358,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1939,7 +377,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1956,7 +394,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1975,7 +413,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -1992,7 +430,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2011,7 +449,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2028,7 +466,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2047,7 +485,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2064,7 +502,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2083,7 +521,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2100,7 +538,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2119,7 +557,7 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
@@ -2136,7 +574,223 @@
         <root url="file:///usr/local/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file://$USER_HOME$/.CLion2018.2/system/python_stubs/-1247972723" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/-1247972723" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
