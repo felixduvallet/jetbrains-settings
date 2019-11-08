@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="build" type="BUILD" />
       <mapping ext="simulation" type="Dockerfile" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
