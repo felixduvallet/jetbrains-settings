@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Replace with color name" />
+  </component>
+</application>
